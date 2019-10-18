@@ -1,9 +1,9 @@
-PROJECT TITLE: Paycheck Calculator
+PROJECT TITLE: Die Game
 PURPOSE OF PROJECT: To calculate the users paycheck
 VERSION or DATE: Ver 1.0.1
 HOW TO START THIS PROJECT:
 ```
-javac paycheck.java driver.java
+javac die.java driver.java sequences.java
 java driver.java
 ```
 AUTHORS:
